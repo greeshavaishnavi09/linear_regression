@@ -1,0 +1,128 @@
+[2026-07-20 01:22:14,748: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:22:14,754: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:22:14,754: INFO: common: created directory at artifacts]
+[2026-07-20 01:22:14,754: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:23:37,472: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:23:37,472: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:23:37,479: INFO: common: created directory at artifacts]
+[2026-07-20 01:23:57,181: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:23:57,186: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:23:57,190: INFO: common: created directory at artifacts]
+[2026-07-20 01:23:57,190: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:25:43,593: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:25:43,598: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:25:43,600: INFO: common: created directory at artifacts]
+[2026-07-20 01:25:43,602: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:28:16,426: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:28:16,431: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:28:16,433: INFO: common: created directory at artifacts]
+[2026-07-20 01:28:16,435: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:28:34,845: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:28:34,848: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:28:34,850: INFO: common: created directory at artifacts]
+[2026-07-20 01:28:34,852: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:29:53,497: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:29:53,501: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:29:53,503: INFO: common: created directory at artifacts]
+[2026-07-20 01:29:53,503: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:30:22,012: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:30:22,015: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:30:22,018: INFO: common: created directory at artifacts]
+[2026-07-20 01:30:22,020: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:30:39,844: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:30:39,847: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:30:39,851: INFO: common: created directory at artifacts]
+[2026-07-20 01:30:39,851: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:32:48,173: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:32:48,175: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:32:48,177: INFO: common: created directory at artifacts]
+[2026-07-20 01:32:48,178: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:32:48,741: INFO: 3095341668: artifacts/data_ingestion/data.tar.gz Downloaded with following info 
+Content-Type: text/html; charset=utf-8
+Date: Sun, 19 Jul 2026 20:02:48 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=33e5da5745833dec49dfdd74c0f72b84; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSEsYqmFnEIRww917l0_qrVFf-JcWM1rPV9Ne4X1opt-9znIZ8jTX16aSrcWeqedEc8sle9AFLGzp6HpgBIuEw; path=/; secure; samesite=strict; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSGJ9H7tI98Wl9UFgu3ykdW6KUVCbNeOm3ymZzEA3r-6UGB4sPwBSAV41bA_-kxd7IncdUUo1TwSpQalLjKqMPFCYw; path=/; secure; samesite=strict
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOiIiLCJuYnQiOiIyMDI2LTA3LTE5VDIwOjAyOjQ4LjQxMjk3NDJaIiwiaWF0IjoiMjAyNi0wNy0xOVQyMDowMjo0OC40MTI5NzQyWiIsImp0aSI6ImNiYThiNzBhLWE3ZTUtNDMwNy1hZWFhLWQ3ZTQ5MjI2ZDRiZSIsImV4cCI6IjIwMjYtMDgtMTlUMjA6MDI6NDguNDEyOTc0MloiLCJhbm9uIjp0cnVlLCJmZmgiOiI4NzcwNTkxMmY0NWFmZjU5YTJkM2E1N2VjZDE2YjI5YTgyZTk3ZGE5ZWU4ZTY0MzI4NGFhMDc5OTZjZjJmMjUxIiwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiJlMzdhZjM1NTZlZjJmNTY3ZjI5M2ZhNDVlYTllODEzMjI1MmFiYzJkIn0.; path=/; secure; samesite=lax
+Set-Cookie: GCLB=CM3szpCD18v07AEQAw; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-seVHUdNtP5kiCmEkCLJG+A==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://youtu.be https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/ https://google.qualtrics.com/ https://player.kick.com/ https://player.twitch.tv/ https://kaggle.com http://localhost:* https://localhost:* localhost:* ;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2026-07-20 01:33:30,681: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:33:30,683: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:33:30,683: INFO: common: created directory at artifacts]
+[2026-07-20 01:33:30,688: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:33:30,689: INFO: 3095341668: file already exist of size: ~ 10 KB]
+[2026-07-20 01:41:07,012: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:41:07,018: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:41:07,020: INFO: common: created directory at artifacts]
+[2026-07-20 01:41:07,020: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:41:07,023: INFO: 3756993266: file already exist of size: ~ 10 KB]
+[2026-07-20 01:43:42,737: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:43:42,742: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:43:42,742: INFO: common: created directory at artifacts]
+[2026-07-20 01:43:42,745: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:43:43,289: INFO: 3756993266: artifacts/data_ingestion/data.tar.gz Downloaded with following info 
+Content-Type: text/html; charset=utf-8
+Date: Sun, 19 Jul 2026 20:13:42 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=b98e0ce273e12a62d876f6d6e36666ca; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSHm8Z5EAxKSq1g8yf_A3tasN2-dXXoKnJfjI9_AcgwlxDMpK2sq5gs4qAu-CGJw4dUtuvsoaVseaRVKQdt7GQ; path=/; secure; samesite=strict; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSExnVFOIKVK_TE0ObtYhoRqwwdKe0GkhzJaqCy9y_eNzHX8GN0mFrRa6z6GFMihMZX5NsshPlQus0C7X0kP3xduAw; path=/; secure; samesite=strict
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOiIiLCJuYnQiOiIyMDI2LTA3LTE5VDIwOjEzOjQyLjk5OTAwNzZaIiwiaWF0IjoiMjAyNi0wNy0xOVQyMDoxMzo0Mi45OTkwMDc2WiIsImp0aSI6IjYyMzRmNmEyLThhZjEtNDhhYS04MjQ2LTc1ODc4ZWM5MjYxZSIsImV4cCI6IjIwMjYtMDgtMTlUMjA6MTM6NDIuOTk5MDA3NloiLCJhbm9uIjp0cnVlLCJmZmgiOiI4NzcwNTkxMmY0NWFmZjU5YTJkM2E1N2VjZDE2YjI5YTgyZTk3ZGE5ZWU4ZTY0MzI4NGFhMDc5OTZjZjJmMjUxIiwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiJlMzdhZjM1NTZlZjJmNTY3ZjI5M2ZhNDVlYTllODEzMjI1MmFiYzJkIn0.; path=/; secure; samesite=lax
+Set-Cookie: GCLB=CI3oh4my68zQ0QEQAw; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-YID9BBGv46Wn5oXmS9K/HQ==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://youtu.be https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/ https://google.qualtrics.com/ https://player.kick.com/ https://player.twitch.tv/ https://kaggle.com http://localhost:* https://localhost:* localhost:* ;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2026-07-20 01:45:12,784: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:45:12,787: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:45:12,788: INFO: common: created directory at artifacts]
+[2026-07-20 01:45:12,788: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:45:12,791: INFO: 3756993266: file already exist of size: ~ 10 KB]
+[2026-07-20 01:49:18,499: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 01:49:18,502: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 01:49:18,503: INFO: common: created directory at artifacts]
+[2026-07-20 01:49:18,505: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 01:49:19,234: INFO: 3767772834: artifacts/data_ingestion/data.tar.gz Downloaded successfully with info 
+Content-Type: text/html; charset=utf-8
+Date: Sun, 19 Jul 2026 20:19:18 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=7c2a8cef9e201928b27ee749f3980124; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSGS0SOtWlCrE9RJFbZgktr3ZDAydutNKdSLl759jRLPYUGJDfQ1pPXgBJvrwsWUTtsN4xqo3aVLGB-yzw6rQA; path=/; secure; samesite=strict; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSHnyRx6kZkZcHDlRSoxgpLeK4B28CJ3-Wq_z-TGOITyCvQyI0_ObUgm9dmynLqY0DBnvKlcLJzMv9OKv2f-dzuHUA; path=/; secure; samesite=strict
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOiIiLCJuYnQiOiIyMDI2LTA3LTE5VDIwOjE5OjE4LjkyMDc3MTJaIiwiaWF0IjoiMjAyNi0wNy0xOVQyMDoxOToxOC45MjA3NzEyWiIsImp0aSI6Ijg1MmVhZGYwLWZjNDktNDhmZi05Y2VhLTczMjljZTdmNWM5OSIsImV4cCI6IjIwMjYtMDgtMTlUMjA6MTk6MTguOTIwNzcxMloiLCJhbm9uIjp0cnVlLCJmZmgiOiI4NzcwNTkxMmY0NWFmZjU5YTJkM2E1N2VjZDE2YjI5YTgyZTk3ZGE5ZWU4ZTY0MzI4NGFhMDc5OTZjZjJmMjUxIiwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiJlMzdhZjM1NTZlZjJmNTY3ZjI5M2ZhNDVlYTllODEzMjI1MmFiYzJkIn0.; path=/; secure; samesite=lax
+Set-Cookie: GCLB=COqkjNWyqOuv7gEQAw; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-XiYQ4wldLt221L5IMH7/6w==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://youtu.be https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/ https://google.qualtrics.com/ https://player.kick.com/ https://player.twitch.tv/ https://kaggle.com http://localhost:* https://localhost:* localhost:* ;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000
+Connection: close
+Transfer-Encoding: chunked
+
+]
