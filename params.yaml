@@ -1,0 +1,8 @@
+Target_Variable: median_house_value
+
+Train_Test_Split:
+  test_size: 0.2
+  random_state: 42
+
+Linear_Regression_Params:
+  fit_intercept: true
