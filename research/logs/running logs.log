@@ -126,3 +126,82 @@ Connection: close
 Transfer-Encoding: chunked
 
 ]
+[2026-07-20 02:10:45,182: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 02:10:45,184: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 02:10:45,188: INFO: common: created directory at artifacts]
+[2026-07-20 02:10:45,191: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 02:10:45,665: INFO: 3767772834: artifacts/data_ingestion/data.tar.gz Downloaded successfully with info 
+Content-Type: text/html; charset=utf-8
+Date: Sun, 19 Jul 2026 20:40:44 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=2e55f58eb9019c7d7c2cfa3b84417a30; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSHZD2FDcrseNsw4fgIe_WZ8k8EC3oZglUDXiu4Ndi9sn_XfUE_3SNktZYR6puZBNRrEbmB55bezHlgVu53yPA; path=/; secure; samesite=strict; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSGfuphJnDSUmrgndyOWHAHVjS29Pms5kaiAIDb5wwoinVXoDGS-jYECSoXOdnmGDvGBN6azWP_2k3kxPxcsB7DS2Q; path=/; secure; samesite=strict
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOiIiLCJuYnQiOiIyMDI2LTA3LTE5VDIwOjQwOjQ1LjM2NDYyNzlaIiwiaWF0IjoiMjAyNi0wNy0xOVQyMDo0MDo0NS4zNjQ2Mjc5WiIsImp0aSI6ImEwZjdlMDQxLTUwNTAtNGI3My1hNjM5LTU1MzBhNDJhOWEwOCIsImV4cCI6IjIwMjYtMDgtMTlUMjA6NDA6NDUuMzY0NjI3OVoiLCJhbm9uIjp0cnVlLCJmZmgiOiI4NzcwNTkxMmY0NWFmZjU5YTJkM2E1N2VjZDE2YjI5YTgyZTk3ZGE5ZWU4ZTY0MzI4NGFhMDc5OTZjZjJmMjUxIiwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiJlMzdhZjM1NTZlZjJmNTY3ZjI5M2ZhNDVlYTllODEzMjI1MmFiYzJkIn0.; path=/; secure; samesite=lax
+Set-Cookie: GCLB=COnAgva67OufeBAD; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-VaU+L+Ri9hOpKn/OSZpLFg==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://youtu.be https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/ https://google.qualtrics.com/ https://player.kick.com/ https://player.twitch.tv/ https://kaggle.com http://localhost:* https://localhost:* localhost:* ;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2026-07-20 02:14:00,556: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 02:14:00,558: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 02:14:00,560: INFO: common: created directory at artifacts]
+[2026-07-20 02:14:00,560: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 02:14:00,564: INFO: 3767772834: Found a corrupted file. Deleting it to trigger a fresh download...]
+[2026-07-20 02:14:01,035: INFO: 3767772834: artifacts/data_ingestion/data.tar.gz Downloaded successfully with info 
+Content-Type: text/html; charset=utf-8
+Date: Sun, 19 Jul 2026 20:44:00 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=4668edbdfac0e1e01258b2696a4fbb7c; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSHx1RKp_2t_119oJVJ7MxdQi28fnhw7WiMkzf7WdxWNmylvzmSKrF7FY1glaF6QKbGf3An2agyNeJUyo9N37A; path=/; secure; samesite=strict; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSE106jkYjRBCq8Q9HHUffR1JPS6rHjK_Hx8-2JjOZcBQ-KKWJ2TyQ0i0G9KkXcfHdvBuilcGeyAslpABpJJMbaznA; path=/; secure; samesite=strict
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOiIiLCJuYnQiOiIyMDI2LTA3LTE5VDIwOjQ0OjAwLjczNzE0MTJaIiwiaWF0IjoiMjAyNi0wNy0xOVQyMDo0NDowMC43MzcxNDEyWiIsImp0aSI6ImYwM2FmZTE0LWNiZWYtNDhhZi04NDYxLWY2ZTZmYTEyZmY4NyIsImV4cCI6IjIwMjYtMDgtMTlUMjA6NDQ6MDAuNzM3MTQxMloiLCJhbm9uIjp0cnVlLCJmZmgiOiI4NzcwNTkxMmY0NWFmZjU5YTJkM2E1N2VjZDE2YjI5YTgyZTk3ZGE5ZWU4ZTY0MzI4NGFhMDc5OTZjZjJmMjUxIiwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiJlMzdhZjM1NTZlZjJmNTY3ZjI5M2ZhNDVlYTllODEzMjI1MmFiYzJkIn0.; path=/; secure; samesite=lax
+Set-Cookie: GCLB=COKU9baK5vrFVxAD; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-1ti71C0KGiVZmcXS76oWMQ==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://youtu.be https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/ https://google.qualtrics.com/ https://player.kick.com/ https://player.twitch.tv/ https://kaggle.com http://localhost:* https://localhost:* localhost:* ;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2026-07-20 02:15:02,735: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-07-20 02:15:02,737: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-07-20 02:15:02,739: INFO: common: created directory at artifacts]
+[2026-07-20 02:15:02,740: INFO: common: created directory at artifacts/data_ingestion]
+[2026-07-20 02:15:03,155: INFO: 3972310249: artifacts/data_ingestion/data.tar.gz Downloaded successfully with info 
+Content-Type: text/html; charset=utf-8
+Date: Sun, 19 Jul 2026 20:45:02 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=23e93c550c982dfd1ec71ec27845101a; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSEWjLA_uAqAzlh4W_x5fYHK-yeITN457fb02e_cn0fMZpJK-ecekM3fyAe5HT5WSKfWXrhCrm4aynt0ulruFw; path=/; secure; samesite=strict; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8HMxIwPZ_4ZImnEqAVaKkSECgZtMe4ibGhUL028xnJfuKrXHzX48N99RPUmOzF1pd7Kw50ASSE7E9-3B1AEf7L4NyF1lg7n6HeMRotwdJ2k3HQ; path=/; secure; samesite=strict
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOiIiLCJuYnQiOiIyMDI2LTA3LTE5VDIwOjQ1OjAyLjg4OTM0MTZaIiwiaWF0IjoiMjAyNi0wNy0xOVQyMDo0NTowMi44ODkzNDE2WiIsImp0aSI6IjlhNjFiYThhLTNhZWYtNDQzYi1iMWQ5LTM0MDQ0NWU1MGJlNSIsImV4cCI6IjIwMjYtMDgtMTlUMjA6NDU6MDIuODg5MzQxNloiLCJhbm9uIjp0cnVlLCJmZmgiOiI4NzcwNTkxMmY0NWFmZjU5YTJkM2E1N2VjZDE2YjI5YTgyZTk3ZGE5ZWU4ZTY0MzI4NGFhMDc5OTZjZjJmMjUxIiwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiJlMzdhZjM1NTZlZjJmNTY3ZjI5M2ZhNDVlYTllODEzMjI1MmFiYzJkIn0.; path=/; secure; samesite=lax
+Set-Cookie: GCLB=CLrAutH08efIEBAD; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-nxeQrqBbeIQ3NW1WYeYK/g==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://youtu.be https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/ https://google.qualtrics.com/ https://player.kick.com/ https://player.twitch.tv/ https://kaggle.com http://localhost:* https://localhost:* localhost:* ;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000
+Connection: close
+Transfer-Encoding: chunked
+
+]

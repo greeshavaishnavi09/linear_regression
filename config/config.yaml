@@ -2,6 +2,6 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion #create a directory in artifacts by the name data_ingestion
-  source_URL: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset #dataset_url
-  local_data_file: artifacts/data_ingestion/data.tar.gz #downloading in compessed format to the place where the local_data_file specifies
+  dataset_name: yasserh/housing-prices-dataset #dataset from kaggle api token key downloaded dataset
+  local_data_file: artifacts/data_ingestion/housing-prices-dataset.zip #downloading in compessed format to the place where the local_data_file specifies
   unzip_dir: artifacts/data_ingestion #extracting the data from the compressed folder to feed to the model
