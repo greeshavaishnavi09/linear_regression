@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "linera_regression"
 AUTHOR_USER_NAME = "Greesha Vaishnavi"
-SRC_REPO = "Linear_regression_01"
+SRC_REPO = "linear_regreesion"
 AUTHOR_EMAIL = "greeshavaishnavi@gmail.com"
 
 setuptools.setup(
