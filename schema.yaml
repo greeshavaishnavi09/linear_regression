@@ -1,14 +1,18 @@
 COLUMNS:
-  longitude: float64
-  latitude: float64
-  housing_median_age: float64
-  total_rooms: float64
-  total_bedrooms: float64
-  population: float64
-  households: float64
-  median_income: float64
-  median_house_value: float64
-  ocean_proximity: object
+price: int64,
+area: int64,
+bedrooms: int64,
+bathrooms: int64,
+stories: int64,
+mainroad: object,
+guestroom: object,
+basement: object,
+hotwaterheating: object,     # this is actually a dictinonary form YAML uses this format structure for dic
+airconditioning: object,      
+parking: int64,              # in python we write different 
+prefarea: object,
+furnishingstatus: object
+      
 
 TARGET_COLUMN:
-  median_house_value: float64
+price: float64
