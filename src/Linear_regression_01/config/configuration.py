@@ -3,6 +3,7 @@ from Linear_regression_01.constant import *
 from Linear_regression_01.utils.common import read_yaml, create_directories
 from Linear_regression_01.entity.config_entity import DataIngestionConfig
 from Linear_regression_01.entity.config_entity import DataValidationConfig
+from Linear_regression_01.entity.config_entity import DataTransformationConfig
 
 class ConfigurationManager:
 
