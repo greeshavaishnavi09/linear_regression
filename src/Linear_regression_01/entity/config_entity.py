@@ -36,4 +36,4 @@ class ModelTrainerConfig:
     transformed_train_path : Path
     transformed_test_path : Path
     preprocessor_path : Path
-    trained_model_file_path: Path   
+    trained_model_file_path: Path  
