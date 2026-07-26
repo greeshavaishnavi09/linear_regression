@@ -33,3 +33,11 @@ data_transformation:
   transformed_test_path: artifacts/data_transformation/test.npy
   preprocessor_path: artifacts/data_transformation/preprocessor.pkl
 
+model_trainer:
+root_dir : artifacts/model_trainer
+STATUS_FILE : artifacts/data_validation/status.txt
+transformed_trained_path: artifacts/data_transformation/train.npy
+transformed_test_path : artifacts/data_transformation/test.npy
+preprocessor_path : artifacts/data_transformation/preprocessor.pkl
+trained_model_file_path : artifacts/model_trainer/trained_model/model.pkl
+
