@@ -5,6 +5,7 @@ from Linear_regression_01.entity.config_entity import DataIngestionConfig
 from Linear_regression_01.entity.config_entity import DataValidationConfig
 from Linear_regression_01.entity.config_entity import DataTransformationConfig
 from Linear_regression_01.entity.config_entity import ModelTrainerConfig
+from Linear_regression_01.entity.config_entity import ModelEvaluationConfig
 
 class ConfigurationManager:
 
@@ -93,3 +94,22 @@ class ConfigurationManager:
             )
     
             return model_trainer_config   
+
+    def get_model_evaluation_config(self) -> ModelEvaluationConfig:
+    
+            config = self.config.model_evaluation
+    
+            create_directories([config.root_dir])
+    
+            model_evaluation_config = ModelEvaluationConfig(
+                root_dir=config.root_dir,
+                STATUS_FILE=config.STATUS_FILE,
+                transformed_train_path=config.transformed_train_path,
+                transformed_test_path=config.transformed_test_path,
+                preprocessor_path=config.preprocessor_path,
+                trained_model_file_path=config.trained_model_file_path,
+                metric_file_path=config.metric_file_path,
+                threshold=self.params.model_evaluation.threshold
+            )
+    
+            return model_evaluation_config

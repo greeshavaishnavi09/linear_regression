@@ -37,3 +37,14 @@ class ModelTrainerConfig:
     transformed_test_path : Path
     preprocessor_path : Path
     trained_model_file_path: Path  
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir: Path
+    STATUS_FILE:Path
+    transformed_train_path:Path
+    transformed_test_path:Path
+    preprocessor_path:Path
+    trained_model_file_path:Path
+    metric_file_path:Path
+    threshold:float    

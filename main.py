@@ -2,6 +2,7 @@ from Linear_regression_01.pipeline.stage_01_dataingestion import DataIngestionTr
 from Linear_regression_01.pipeline.stage_02_datavalidation import DataValidationTrainingPipeline
 from Linear_regression_01.pipeline.stage_03_datatransformation import DataTransformationTrainingPipeline
 from Linear_regression_01.pipeline.stage_04_modeltrainer import ModelTrainerTrainingPipeline
+from Linear_regression_01.pipeline.stage_05_modelevaluation import ModelEvaluationTrainingPipeline
 
 from Linear_regression_01.logging import logger
 
@@ -56,6 +57,21 @@ try:
     logger.info(f">>>>>> Stage {STAGE_NAME} Started <<<<<<")
 
     obj = ModelTrainerTrainingPipeline()
+    obj.main()
+
+    logger.info(f">>>>>> Stage {STAGE_NAME} Completed <<<<<<")
+
+except Exception as e:
+    logger.exception(e)
+    raise e
+
+
+STAGE_NAME = "Model Evaluation Stage"
+
+try:
+    logger.info(f">>>>>> Stage {STAGE_NAME} Started <<<<<<")
+
+    obj = ModelEvaluationTrainingPipeline()
     obj.main()
 
     logger.info(f">>>>>> Stage {STAGE_NAME} Completed <<<<<<")
