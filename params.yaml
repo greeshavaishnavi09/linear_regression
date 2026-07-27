@@ -8,6 +8,6 @@ Linear_Regression_Params:
   fit_intercept: true
 
 model_evaluation:
-  threshold: 0.6         # trained mode accuracy value 
+  threshold: 0.60        # trained mode accuracy value 
   metric: r2
   save_metrics: True
